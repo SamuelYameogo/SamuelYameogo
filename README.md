@@ -43,7 +43,7 @@ Currently pursuing an online MSc in **Quantitative Finance** at WorldQuant Unive
 Worked on an **optimization problem** in the context of airline operations. The goal was to design an efficient schedule that simultaneously optimizes aircraft routing and crew assignments.  
 🔧 Approach:  
 - Modeled the problem using Integer Programming with operational constraints.  
-- Implemented and solved the model using **Gurobi**.  
+- Implemented and solved the model using Gurobi, flyscopter, Crewml, etc.  
 - Delivered visual analysis and KPIs including minimized delays and costs.  
 🧠 This project sharpened my skills in combinatorial optimization and industrial operations modeling.
 
