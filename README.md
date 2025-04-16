@@ -8,17 +8,6 @@
 
 ## 🚀 Projects & Research Experiences
 
-### ✈️ Aircraft Itinerary and Crew Scheduling Problem (AICSP)
-📍 EMI (2024)  
-Worked on an **optimization problem** in the context of airline operations. The goal was to design an efficient schedule that simultaneously optimizes aircraft routing and crew assignments.  
-🔧 Approach:  
-- Modeled the problem using Integer Programming with operational constraints.  
-- Implemented and solved the model using **Gurobi**.  
-- Delivered visual analysis and KPIs including minimized delays and costs.  
-🧠 This project sharpened my skills in combinatorial optimization and industrial operations modeling.
-
----
-
 ### 🧠 AI-Powered Crisis Simulation (FIFA 2030 Project)
 📍 UM5 Rabat (Dec 2024 – Present)  
 Developing an immersive Augmented Reality platform guided by AI for the **training of rescue agents** during large-scale events like the FIFA World Cup.  
@@ -39,6 +28,27 @@ Contributed to a national study for the Ministry of Digital Transition on Morocc
 
 ---
 
+### 💼 Financial Modeling & Global Collaboration
+🎓 WorldQuant University (2025 – Present)  
+Currently pursuing an online MSc in **Quantitative Finance** at WorldQuant University, where I:  
+- Explore topics in financial modeling, portfolio theory, and risk management.  
+- Work on **hands-on projects** involving real-world financial data.  
+- Collaborate with a **global network of quantitative researchers and finance specialists** during group works and for ideas exchanges and best practices.  
+🌍 This degree enhances my cross-disciplinary profile by linking math, programming, and financial strategy.
+
+---
+
+### ✈️ Aircraft Itinerary and Crew Scheduling Problem (AICSP)
+📍 EMI (2024)  
+Worked on an **optimization problem** in the context of airline operations. The goal was to design an efficient schedule that simultaneously optimizes aircraft routing and crew assignments.  
+🔧 Approach:  
+- Modeled the problem using Integer Programming with operational constraints.  
+- Implemented and solved the model using **Gurobi**.  
+- Delivered visual analysis and KPIs including minimized delays and costs.  
+🧠 This project sharpened my skills in combinatorial optimization and industrial operations modeling.
+
+---
+
 ### ♻️ Multi-Criteria Decision Making for Solar Distillation
 📍 EMI (Jan – Jul 2024)  
 Applied MCDM techniques to compare and design solar distillation systems, considering criteria such as energy efficiency, cost, and sustainability.  
@@ -48,14 +58,6 @@ Applied MCDM techniques to compare and design solar distillation systems, consid
 📈 Result: Identified optimal configurations for rural and semi-urban contexts with low energy access.
 
 ---
-
-### 💼 Financial Modeling & Global Collaboration
-🎓 WorldQuant University (2025 – Present)  
-Currently pursuing an online MSc in **Quantitative Finance** at WorldQuant University, where I:  
-- Explore topics in financial modeling, portfolio theory, and risk management.  
-- Work on **hands-on projects** involving real-world financial data.  
-- Collaborate with a **global network of quantitative researchers and finance specialists** during group works and for ideas exchanges and best practices.  
-🌍 This degree enhances my cross-disciplinary profile by linking math, programming, and financial strategy.
 
 ### Explore my repos for more of my projects !
 
